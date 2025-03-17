@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<charDecl>
+	<glyph xml:id="alef">
+		<mapping type="Unicode">U+066E</mapping>
+	</glyph>
+	<glyph xml:id="tooth">
+		<mapping type="Unicode" subtype="bah">U+066E</mapping>
+		<mapping type="Unicode" subtype="nun">U+06BA</mapping>
+		<mapping type="Unicode" subtype="yah">U+0649</mapping>
+		<desc>Tooth letter (initial or medial position)</desc>
+	</glyph>
+	<glyph xml:id="hah">
+		<mapping type="Unicode">U+062D</mapping>
+	</glyph>
+	<glyph xml:id="dal">
+		<mapping type="Unicode">U+062F</mapping>
+	</glyph>
+	<glyph xml:id="reh">
+		<mapping type="Unicode">U+0631</mapping>
+	</glyph>
+	<glyph xml:id="seen">
+		<mapping type="Unicode">U+0633</mapping>
+	</glyph>
+	<glyph xml:id="sad">
+		<mapping type="Unicode">U+0635</mapping>
+	</glyph>
+	<glyph xml:id="tah">
+		<mapping type="Unicode">U+0637</mapping>
+	</glyph>
+	<glyph xml:id="ain">
+		<mapping type="Unicode">U+0639</mapping>
+	</glyph>
+	<glyph xml:id="faqaf">
+		<mapping type="Unicode" subtype="feh">U+06A1</mapping>
+		<mapping type="Unicode" subtype="qaf">U+066F</mapping>
+		<desc>feh or qaf (initial or medial position)</desc>
+	</glyph>
+	<glyph xml:id="kaf">
+		<mapping type="Unicode">U+06A9</mapping>
+	</glyph>
+	<glyph xml:id="lam">
+		<mapping type="Unicode">U+0644</mapping>
+	</glyph>
+	<glyph xml:id="meem">
+		<mapping type="Unicode">U+0645</mapping>
+	</glyph>
+	<glyph xml:id="noon">
+		<mapping type="Unicode">U+0645</mapping>
+		<desc>noon (final position)</desc>
+	</glyph>
+	<glyph xml:id="heh">
+		<mapping type="Unicode">U+0647</mapping>
+	</glyph>
+	<glyph xml:id="waw">
+		<mapping type="Unicode">U+0648</mapping>
+	</glyph>
+	<glyph xml:id="qaf">
+		<mapping type="Unicode">U+066F</mapping>
+		<desc>qaf (final position)</desc>
+	</glyph>
+	<glyph xml:id="feh">
+		<mapping type="Unicode">U+06A1</mapping>
+		<desc>feh (final position)</desc>
+	</glyph>
+	<glyph xml:id="hamza">
+		<mapping type="Unicode">U+0621</mapping>
+		<desc>feh (final position)</desc>
+	</glyph>
+	<glyph xml:id="kaf_new">
+		<mapping type="Unicode">U+0643</mapping>
+		<desc>kaf (new, final position)</desc>
+	</glyph>
+	<glyph xml:id="retro">
+		<mapping type="Unicode">U+06D2</mapping>
+		<desc>retro-yah (final position)</desc>
+	</glyph>
+	<glyph xml:id="sep">
+		<mapping type="Unicode">U+06DD</mapping>
+	</glyph>
+	<glyph xml:id="bah">
+		<mapping type="Unicode">U+066E</mapping>
+		<mapping type="Unicode">U+062A</mapping>
+		<mapping type="Unicode">U+062B</mapping>
+		<desc>bah, teh or theh (final position)</desc>
+	</glyph>
+	<glyph xml:id="yeh">
+		<mapping type="Unicode">U+0649</mapping>
+		<desc>bah (final position)</desc>
+	</glyph>
+	<glyph xml:id="one-dot-above">
+		<mapping type="Unicode">U+FBB2</mapping>
+		<desc>One consonantal dot above the previous archigrapheme</desc>
+	</glyph>
+	<glyph xml:id="one-dot-below">
+		<mapping type="Unicode">U+FBB3</mapping>
+		<desc>One consonantal dot below the previous archigrapheme</desc>
+	</glyph>
+	<glyph xml:id="two-dots-above">
+		<mapping type="Unicode">U+FBB4</mapping>
+		<desc>Two consonantal dots above the previous archigrapheme</desc>
+	</glyph>
+	<glyph xml:id="two-dots-below">
+		<mapping type="Unicode">U+FBB5</mapping>
+		<desc>Two consonantal dots below the previous archigrapheme</desc>
+	</glyph>
+	<glyph xml:id="three-dots-above">
+		<mapping type="Unicode">U+FBB6</mapping>
+		<desc>Three consonantal dots above the previous archigrapheme</desc>
+	</glyph>
+	<glyph xml:id="three-dots-below">
+		<mapping type="Unicode">U+FBB7</mapping>
+		<desc>Three consonantal dots below the previous archigrapheme</desc>
+	</glyph>
+</charDecl>

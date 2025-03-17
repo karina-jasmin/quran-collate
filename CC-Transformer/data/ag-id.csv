@@ -1,0 +1,31 @@
+﻿id;ag;unicode;note
+hamza;ء;0621;
+alef;ا;0627;
+reh;ر;0631;
+seen;س;0633;
+sad;ص;0635;
+tah;ط;0637;
+ain;ع;0639;
+kaf_new;ك;0643;only in final form
+lam;ل;0644;
+meem;م;0645;
+waw;و;0648;
+yeh;ى;0649;only in final form
+hah;ح;062D;
+dal;د;062F;
+tooth;ٮ;066E;"either ٮ ,ں or ى, defined here for collation purposes; only in initial and medial form"
+bah;ٮ;066E;only in final form
+faqaf;ٯ;066F;"either ڡ or ٯ, defined here for collation purposes; only in initial and medial form"
+qaf;ٯ;066F;only in final form
+feh;ڡ;06A1;only in final form
+kaf;ک;06A9;
+noon;ں;06BA;only in final form
+heh;ہ;06C1;
+retro;ے;06D2;only in final form
+sep;۝;06DD;
+one-dot-above;﮲;FBB2;
+one-dot-below;﮳;FBB3;
+two-dots-above;﮴;FBB4;
+two-dots-below;﮵;FBB5;
+three-dots-above;﮶;FBB6;
+three-dots-below;﮷;FBB7;
