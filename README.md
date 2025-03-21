@@ -3,7 +3,7 @@
 
 This repository contains Python scripts and datasets developed as part of a study on the automatic collation of early Quranic manuscripts. The research explores the challenges of transcribing and encoding Arabic script for computational text comparison, particularly focusing on rasm (consonantal skeleton), diacritical marks (iʿjām), and vowel markers (tashkīl).
 
-One of the key tasks in this study was transforming manuscript transcriptions—specifically those from Corpus Coranicum—to adapt them for different collation approaches. These approaches include:
+One of the key tasks in this study was transforming manuscript transcriptions—specifically those from [Corpus Coranicum](https://corpuscoranicum.org)—to adapt them for different collation approaches. These approaches include:
 
 1. Plain Text – Normalizing the transcriptions to retain only archigraphemic forms, removing diacritics and vocalization to enable baseline textual comparison.
 2. XML-Based Encoding – Structuring transcriptions in TEI-compliant XML, preserving both base characters and diacritics as separate elements for more detailed analysis.
@@ -11,7 +11,7 @@ One of the key tasks in this study was transforming manuscript transcriptions—
 ## Contents
 
 This repository includes the following components:
-1. Python Script for transforming Corpus Coranicum transcriptions (./CC-Transformer)
+1. Python Script for transforming [Corpus Coranicum transcriptions](https://github.com/telota/corpus-coranicum-xml-raw-files) (./CC-Transformer)
 - cc_transformer.py – A script that extracts and transforms Corpus Coranicum transcriptions, normalizing characters and structuring them for different collation methods.
 - Normalization & Encoding Data (./CC-Transformer/data)
 
