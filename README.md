@@ -23,7 +23,7 @@ To transform Corpus Coranicum transcriptions, use the provided script:
 
 1. Clone this repository:
 
-- `git clone https://github.com/YOUR-USERNAME/quran-collation.git`
+- `git clone https://github.com/karina-jasmin/quran-collate.git`
 - `cd quran-collation`
 
 2. Run the transformation script:
