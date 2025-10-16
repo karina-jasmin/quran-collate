@@ -21,10 +21,13 @@ This repository includes the following components:
 
 To transform Corpus Coranicum transcriptions, use the provided script:
 
-1. Clone this repository:
+1. Clone this repository and install required packages into a virtual environment:
 
 - `git clone https://github.com/karina-jasmin/quran-collate.git`
 - `cd quran-collate`
+- `python -m venv .venv`
+- `source .venv/bin/activate`
+- `pip install -r requirements.txt`
 
 2. Run the transformation script:
 
